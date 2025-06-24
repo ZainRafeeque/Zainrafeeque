@@ -18,37 +18,18 @@
 ---
 
 ## 🛠 **Skills**
-Programming Languages
-Python R Java SQL Bash/Shell
 
-AI/ML & Data Science
-Frameworks: TensorFlow PyTorch Keras scikit-learn Spark
+### 🤖 **AI/ML & Data Science**
+`Python` `TensorFlow` `PyTorch` `Keras` `scikit-learn` `OpenCV` `NLTK` `Hugging Face` `LLMs` `Prompt Engineering`
 
-Libraries: NumPy Pandas OpenCV NLTK Hugging Face
+### 📊 **Data Engineering**
+`Pandas` `NumPy` `Spark` `SQL` `Data Visualization` `Tableau`
 
-Specializations:
+### 💻 **Software Development**
+`Flask` `FastAPI` `Git` `Docker` `Linux` `Bash/Shell Scripting`
 
-Natural Language Processing (NLP, LLMs, GPT/Gemini)
-
-Computer Vision (Image Preprocessing, Neural Networks)
-
-Prompt Engineering (Certified by Dubai Centre for AI)
-
-Data Visualization & Analysis
-Matplotlib Seaborn Plotly Tableau
-
-Development & Deployment
-Backend: Flask FastAPI
-
-Tools: Git Docker Linux
-
-Cloud: AWS GCP (Basic Proficiency)
-
-Certifications
-AI Prompt Engineering (Dubai Centre for AI, 2025)
-
-Data Analytics (LearnTube, 2024)
-
+### ☁️ **Cloud & Deployment**
+`AWS` `GCP` `MLOps` `CI/CD`
 
 <!--
 **ZainRafeeque/Zainrafeeque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
