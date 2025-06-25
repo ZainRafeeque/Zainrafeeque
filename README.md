@@ -26,10 +26,9 @@
 `Pandas` `NumPy` `Spark` `SQL` `Data Visualization` `Tableau`
 
 ### 💻 **Software Development**
-`Flask` `FastAPI` `Git` `Docker` `Linux` `Bash/Shell Scripting`
+`Flask` `FastAPI` `Git`  `Linux` `Bash/Shell Scripting`
 
-### ☁️ **Cloud & Deployment**
-`AWS` `GCP` `MLOps` `CI/CD`
+
 
 <!--
 **ZainRafeeque/Zainrafeeque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
