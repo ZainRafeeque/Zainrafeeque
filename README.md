@@ -5,7 +5,7 @@
 
 📍 **Based in Dubai, UAE**  
 📧 **Email:** [zainrafeeque@gmail.com](mailto:zainrafeeque@gmail.com)  
-🔗 **Connect:** [LinkedIn](https://linkedin.com/in/zain-rafeeque/) | [GitHub](https://github.com/ZainRafeeque)
+🔗 **Connect:** [LinkedIn](https://linkedin.com/in/zain-rafeeque/) | [GitHub](https://github.com/ZainRafeeque)| [Portfolio](https://portfolio-zainrafeeque.vercel.app/)
 
 ---
 
