@@ -105,8 +105,9 @@ Full-stack RAG application: drop any PDF, chat with it, get cited answers and st
 
 <div align="center">
 
-![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainRafeeque&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=10b981&icon_color=10b981)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainRafeeque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=10b981)
+![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainRafeeque&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainRafeeque&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![GitHub Streak](https://streak-stats.demolab.com?user=ZainRafeeque&theme=tokyonight&hide_border=true)
 
 </div>
 
