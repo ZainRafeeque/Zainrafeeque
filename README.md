@@ -51,18 +51,18 @@
 
 **LLMs & RAG**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-2B6CB0?style=flat-square)
+![vLLM](https://img.shields.io/badge/⚡_vLLM-2B6CB0?style=flat-square&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FFB000?style=flat-square)
-![BM25 + RRF](https://img.shields.io/badge/Hybrid_Retrieval-BM25_+_RRF-22d3ee?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/🟧_ChromaDB-FFB000?style=flat-square&logoColor=white)
+![Hybrid Retrieval](https://img.shields.io/badge/🔍_Hybrid_Retrieval-22d3ee?style=flat-square&logoColor=white)
 
 **AI Platforms**
 ![Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **ML / DL**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
