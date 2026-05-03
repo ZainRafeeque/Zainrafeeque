@@ -90,17 +90,6 @@
 
 ---
 
-## ⭐ Featured project
-
-### [DocIntel &mdash; Multi-Modal Document Intelligence](https://github.com/ZainRafeeque/DocIntel)
-
-Full-stack RAG application: drop any PDF, chat with it, get cited answers and structured extractions. Demonstrates production-grade hybrid retrieval (sentence-transformers MiniLM + BM25 fused via RRF), page-level citation tracking with clickable jump-to-page, and one-shot JSON extraction with CSV export.
-
-[![Live Demo](https://img.shields.io/badge/▶_Try_Live_Demo-22d3ee?style=for-the-badge)](https://doc-intel-delta.vercel.app/)
-[![Code](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ZainRafeeque/DocIntel)
-
----
-
 ## 📊 GitHub stats
 
 <div align="center">
